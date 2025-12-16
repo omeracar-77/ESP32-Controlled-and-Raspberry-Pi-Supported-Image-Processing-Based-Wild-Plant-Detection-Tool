@@ -19,4 +19,5 @@ mobile phone or computer. Using the Wi-Fi capabilities of the ESP32, I set up an
 🛠️ Technologies Used
 
 Hardware: Raspberry Pi 5, ESP32, L298N Motor Driver, Pan-Tilt Kit, HC-SR04, USB Web Camera.
+
 Software: Python (TensorFlow/Keras, OpenCV, Flask), C++.
