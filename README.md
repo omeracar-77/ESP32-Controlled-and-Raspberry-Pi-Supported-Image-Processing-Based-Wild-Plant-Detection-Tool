@@ -11,7 +11,6 @@ consisting of 13 different plant classes and 5500+ images. By using image prepro
 conditions to over 85%.
 
 Kaggle Dataset: Plant Seedlings Classification
-
 https://www.kaggle.com/competitions/plant-seedlings-classification
 
 IoT and Remote Control: I developed a responsive web interface based on Flask so that the user can control the system via their
