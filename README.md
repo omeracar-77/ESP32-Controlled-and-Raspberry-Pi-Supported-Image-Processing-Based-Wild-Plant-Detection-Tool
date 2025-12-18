@@ -1,3 +1,5 @@
+<img width="674" height="430" alt="image" src="https://github.com/user-attachments/assets/bac20ad9-cc9f-4ef2-b21a-81941226e1de" />
+<img width="677" height="488" alt="image" src="https://github.com/user-attachments/assets/044d5cb9-0465-43cc-af20-37a22e9b9a5d" />
 Project Summary: As part of my undergraduate thesis project at Konya Technical University, I designed and developed an autonomous and mobile
 robotic system capable of detecting weeds in agricultural fields in real time.
 
