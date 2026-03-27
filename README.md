@@ -17,7 +17,7 @@ Kaggle Dataset: Plant Seedlings Classification
 https://www.kaggle.com/competitions/plant-seedlings-classification
 
 IoT and Remote Control: I developed a responsive web interface based on Flask so that the user can control the system via their
-mobile phone or computer. Using the Wi-Fi capabilities of the ESP32, I set up an IoT infrastructure that provides live image transmission and real-time data tracking.
+mobile phone or computer. Using the Wi-Fi capabilities of the STM32, I set up an IoT infrastructure that provides live image transmission and real-time data tracking.
 
 🛠️ Technologies Used
 
